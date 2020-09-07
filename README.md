@@ -1,3 +1,7 @@
+##note
+>* user.txt和hotSearch.txt分别存储用户和热搜信息，字段对应顺序为User.java和HotSearch.java类中属性声命顺序
+-------------
+
 # Java oo 练习
 
 做一个热搜排行榜系统
